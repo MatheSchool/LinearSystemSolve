@@ -1,8 +1,13 @@
 import numpy as np
 from time import time
 
-n = np.array([[2, 2, 3], [-1, 1, 1], [-1, 3, 5]])
-m = np.array([1, 0, -4])
+n = np.array([[2, 2, 3, 2, 3], 
+               [-1, 1, 1, 4, 5], 
+               [-1, 3, 5, 8, 5],
+               [4, 1, -5, 3, 1],
+               [-4, 2, -5, 4, 2],
+               ]);
+m = np.array([[1], [0], [-4], [-3], [0]]);
 
 print("n = ")
 print(n);
