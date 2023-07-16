@@ -1,3 +1,3 @@
 # LinearSystemSolve
 
-https://replit.com/@MatheSchool/LinearSystemMatrixNotDetermined#main.py
+https://replit.com/@MatheSchool/LinearSystemSolve#main.py
